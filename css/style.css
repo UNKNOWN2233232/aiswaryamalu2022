@@ -525,7 +525,7 @@ body {
 .venue {
 	width: auto;
 	height: auto;
-	background-color: #674ea7;
+	background-color: #c5803a;
 	border-radius: 16px;
 	text-align: center;
 	color: #fff;
@@ -659,7 +659,7 @@ a {
 }
 .coverTitle{
 		    top: 46%;
-    left: 35%;
+    left: 40%;
     position: relative;
     font-family: 'Dancing Script';
 	color : #22173f;
